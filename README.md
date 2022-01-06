@@ -63,5 +63,7 @@ WD BLACK SN750（1TB）
 # Resources used:
 使用的EFI文件 https://github.com/nhoxnho1212/thinkpad-t480-hackintosh （EFI-10.15 CLOVER）
 
-网卡驱动 AirportItlwm_v2.1.0_stable_Catalina.kext https://github.com/OpenIntelWireless/itlwm/releases  
+网卡驱动 [AirportItlwm_v2.1.0_stable_Catalina.kext](https://github.com/OpenIntelWireless/itlwm/releases)
+
+镜像来源  黑果小兵 [macOS Catalina 10.15.7(19H2) Installer for Clover 5122 and WEPE](https://blog.daliansky.net/WeChat-First-macOS-Catalina-10.15.7-19H15-official-version-Clover-5126-OC-WEPE-supports-both-INTEL-and-AMD-original-images.html)
 
